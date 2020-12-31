@@ -1,0 +1,5 @@
+.vscode/*
+db.sqlite3
+mylist/__pycache__/*
+todolist/__pycache__/*
+todolist/migrations/__pycache__/*
